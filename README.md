@@ -1,4 +1,4 @@
-UNP-Project_Bl-with-Power-Bl_Hr attretion 
+UNP-Project_Bl-with-Power-Bl_Hr data
 
 A single rectangle visual that shows an important metric or KPI (Key Performance Indicator) is commonly referred to as a card.
 Completed this project as part of my Bl with PowerBI Internship with United Network of Professionals (UNP).
