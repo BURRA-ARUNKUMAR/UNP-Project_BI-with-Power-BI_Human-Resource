@@ -1,11 +1,10 @@
-UNP-Project_Bl-with-Power-Bl_Human resources 
 
-A single rectangle visual that shows an important metric or KPI (Key Performance Indicator) is commonly referred to as a card.
 Completed this project as part of my Bl with PowerBI Internship with United Network of Professionals (UNP).
 
 1. Contributed to the development of intricate KPIs and dynamic, interactive Power BI interfaces.
 
 2. Collaborated with stakeholders to understand their requirements and translated them into effective Power BI solutions.
+
 
 3. Ardently involved in creating data model, implemented data transformations and calculations using DAX for accurate analysis and reporting.
 
